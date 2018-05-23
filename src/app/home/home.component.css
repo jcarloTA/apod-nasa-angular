@@ -1,0 +1,19 @@
+
+.card-container{
+  align-items: center;
+}
+
+.card-content{
+  width: 800px;
+  margin: 10px auto;
+}
+
+h3{
+  text-align: center;
+}
+.container-espinner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
