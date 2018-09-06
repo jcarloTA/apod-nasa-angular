@@ -1,0 +1,18 @@
+.container-espinner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.card-content{
+  width: 200px;
+  margin:16px;
+  box-sizing: border-box;
+
+}
+.card-container{
+  display:flex;
+  flex-flow:row wrap;
+
+}
